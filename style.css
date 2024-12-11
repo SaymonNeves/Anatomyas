@@ -1,0 +1,13 @@
+body {
+	background-color: rgba(100, 20, 10, 0.8);
+}
+h1 {
+	margin-top: 1rem;
+	color: #BBBBFF;
+	text-align: center;
+}
+canvas {
+	margin-top: 1rem;
+	border: solid 1px pink;
+	height: 70%;
+}
